@@ -2,7 +2,7 @@
 var generateBtn = document.querySelector("#generate");
 
 
-function generatePassword (){
+var generatePassword = function (){
   // Available Characters 
   var specialCharacters = '!, ", #, $, %, &, (, ), *, +, ",", -, ".", /, :, ;, <, =, >, ?, @, [, \, ], ^, _, `, {, |, }, ~,';
   var numericCharacters = '0, 1, 2, 3, 4, 5, 6, 7, 8, 9';
@@ -60,6 +60,7 @@ function generatePassword (){
   }
 };
 
+generatePassword();
 
 // Write password to the #password input
 function writePassword() {
