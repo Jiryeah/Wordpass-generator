@@ -48,7 +48,7 @@ var generatePassword = function (){
   }
 
   if (!specialCharacters && !numericCharacters && !lowerCaseLetters && !upperCaseLetters) {
-    return window.alert("One criteria HAS to be me!")
+    return window.alert("One criteria HAS to be met!")
   }
   // End of Conditionals 
 
