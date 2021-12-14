@@ -24,3 +24,6 @@ password to the users exact specifications.
 
 ### Deployed Application link and Screenshot 
 - https://jiryeah.github.io/Wordpass-generator/
+
+- <img width="1440" alt="Screen Shot 2021-12-14 at 12 42 33 AM" src="https://user-images.githubusercontent.com/92201576/145946578-4b712544-bf20-4055-9230-2bb26c3ad1b0.png">
+
