@@ -6,6 +6,7 @@ answering user specific questions. These questions will tailor the
 password to the users exact specifications.
 
 ## Requirements 
+``` md
 - GIVEN I need a new, secure password
 - WHEN I click the button to generate a password
 - THEN I am presented with a series of prompts for password criteria
@@ -21,6 +22,7 @@ password to the users exact specifications.
 - THEN a password is generated that matches the selected criteria
 - WHEN the password is generated
 - THEN the password is either displayed in an alert or written to the page
+```
 
 ### Deployed Application link and Screenshot 
 - https://jiryeah.github.io/Wordpass-generator/
